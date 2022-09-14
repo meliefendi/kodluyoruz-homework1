@@ -2,6 +2,7 @@
 margin-left:10% ;
 color: DodgerBlue;
 }
+
 h1,h2,h3,h4,h5,article,header,nav{
     font-family: 'Courier New', Courier, monospace;
 }
@@ -14,33 +15,9 @@ font-size: 20px;
    color:darkred;
 }
 
-#anasayfa {
+#anasayfa, #about,#products, #iletişim {
     font-size: 20px;
     font-weight: 900;
-    color:rgb(0, 0, 0);
-    background-color:cornsilk;
-    text-decoration: none;
-}
-
-#about {
-    font-weight: 900;
-    font-size: 20px;
-    color:rgb(0, 0, 0);
-    background-color:cornsilk;
-    text-decoration: none;
-}
-
-#products {
-    font-weight: 900;
-    font-size: 20px;
-    color:rgb(0, 0, 0);
-    background-color:cornsilk;
-    text-decoration: none;
-}
-
-#iletişim {
-    font-weight: 900;
-    font-size: 20px;
     color:rgb(0, 0, 0);
     background-color:cornsilk;
     text-decoration: none;
